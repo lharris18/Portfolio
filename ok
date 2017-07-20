@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Patrick Hand SC' rel='stylesheet'>
 <style>
 body {
-    font-family: 'Sofia';font-size: 22px;
+    font-family: 'Patrick Hand SC';font-size: 22px;
 }
 </style>
 </head>
 <body>
 
-<h1>Sofia</h1>
+<h1>Patrick Hand SC</h1>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 <p>123456790</p>
 <p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
